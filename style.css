@@ -181,6 +181,10 @@ html, body{
     margin: 0 10px;
     font-size: 50px;
 }
+#moving-text::-webkit-scrollbar {
+    display: none;
+}
+
 
 #con{
     white-space: nowrap;  
